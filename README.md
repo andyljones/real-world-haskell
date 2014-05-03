@@ -1,0 +1,1 @@
+Scratch work from [Real World Haskell](http://www.amazon.com/Real-World-Haskell-Bryan-OSullivan/dp/0596514980/).
